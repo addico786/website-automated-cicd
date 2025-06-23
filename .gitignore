@@ -1,0 +1,9 @@
+.terraform
+.terraform.lock.hcl
+acm.tf
+static_key
+static_key.pub
+terraform.tfstate
+terraform.tfstate.backup
+install_nginx.sh
+readme.txt
